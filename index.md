@@ -17,4 +17,7 @@ Chess Engine Using Mini-max Algorithm
 - Basic chess engine used to determine the best move on a chess board with a depth of 3  
 - More project information can be found here: https://github.com/thePoland001/ChessEngine
 
+Analysis of Sensor Data - Charger Robotics & Biomechanics Lab 
+- Verifying the effectiveness of a sensor fusion algorithm that combines inertial motion capture with optical motion capture systems
+- More information about the project can be found here: https://github.com/thePoland001/SensorDataAnalysis
 
