@@ -17,12 +17,4 @@ Sensor Data Analysis
 - Analysis of a set of data from the Charger Robotics & Biomechanics Lab @ UAH 
 - More project information can be found here: https://github.com/thePoland001/SensorDataAnalysis
 
-Various Compressible Aerodynamics Projects                                                                        
-Numerical Solution of Oblique Shocks  
-- More information can be found here: https://github.com/thePoland001/comp_aerodynamics/blob/main/shock_waves.py               
-Numerical Solution of Expansion Waves 
-- More information can be found here: https://github.com/thePoland001/comp_aerodynamics/blob/main/expansion_waves.py
-Computational Fluid Dynamics (CFD) Solution of Quasi-1D Nozzle  
-- More information can be found here: https://github.com/thePoland001/comp_aerodynamics/blob/main/nozzel.py 
-
 
