@@ -3,3 +3,8 @@ description: Josh's personal blog
 #show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
