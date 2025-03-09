@@ -12,9 +12,9 @@ CDLC SAT Solver
 Enhancing Cancer Diagnosis with Machine Learning 
 - Created an ML model capable of diagnosing a tumor as malignant or benign with 99%+ accuracy 
 - More project information can be found here: https://github.com/thePoland001/Erika
-
-Sensor Data Analysis 
-- Analysis of a set of data from the Charger Robotics & Biomechanics Lab @ UAH 
-- More project information can be found here: https://github.com/thePoland001/SensorDataAnalysis
+  
+Chess Engine Using Mini-max Algorithm  
+- Basic chess engine used to determine the best move on a chess board with a depth of 3  
+- More project information can be found here: https://github.com/thePoland001/ChessEngine
 
 
