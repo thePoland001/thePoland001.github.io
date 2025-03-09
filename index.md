@@ -19,10 +19,10 @@ Sensor Data Analysis
 
 Various Compressible Aerodynamics Projects
 - Numerical Solution of Oblique Shocks  
-  •	https:// github.com/thePoland001/comp_aerodynamics/blob/main/shock_waves.py
+- More information can be found here: https:// github.com/thePoland001/comp_aerodynamics/blob/main/shock_waves.py
 - Numerical Solution of Expansion Waves 
-  •	https:// github.com/thePoland001/comp_aerodynamics/blob/main/expansion_waves.py
+- More information can be found here: https:// github.com/thePoland001/comp_aerodynamics/blob/main/expansion_waves.py
 - Computational Fluid Dynamics (CFD) Solution of Quasi-1D Nozzle  
-  •	https:// github.com/thePoland001/comp_aerodynamics/blob/main/nozzel.py 
+- More information can be found here: https:// github.com/thePoland001/comp_aerodynamics/blob/main/nozzel.py 
 
 
