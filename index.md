@@ -5,19 +5,31 @@ Hi, I'm Josh – a BSISE engineering candidate at UAH, MSCS candidate at CU Boul
 I'm graduating from UAH & CU Boulder in 2026 (in May and December respectively), and I plan to work as a software engineer in the defense tech industry - ideally with a focus on data science or GNC. Below are some projects that I completed recently. 
 
 # Projects 
-CDLC SAT Solver
-- Python implementation of a CDCL SAT solver with VSIDS decision heuristic and phase saving.
-- More information about the project is available here: https://github.com/thePoland001/CDCL-SAT-Solver
+Conflict-driven Clause Learning SAT Solver
+- Python implementation of a modern CDCL (Conflict-Driven Clause Learning) SAT solver with VSIDS (Variable State Independent Decaying Sum) decision heuristic and phase saving
 
 Enhancing Cancer Diagnosis with Machine Learning 
-- Created an ML model capable of diagnosing a tumor as malignant or benign with 99%+ accuracy 
-- More project information can be found here: https://github.com/thePoland001/Erika
+- Developed a neural network model with hyperparameter tuning using TensorFlow and Keras to classify cancer diagnoses with PCA and SMOTE for improved feature selection and class balancing
+- Achieved high predictive accuracy (99%+) through model optimization, oversampling, and feature reduction, enhancing diagnostic reliability
+
+ALEXNET Deep Learning Model
+- Developed a deep learning model using AlexNet to classify images, achieving a high accuracy rate through data preprocessing, label assignment, and performance evaluation with a confusion matrix
   
 Chess Engine Using Mini-max Algorithm  
 - Basic chess engine used to determine the best move on a chess board with a depth of 3  
 - More project information can be found here: https://github.com/thePoland001/ChessEngine
 
-Analysis of Sensor Data - Charger Robotics & Biomechanics Lab 
-- Verifying the effectiveness of a sensor fusion algorithm that combines inertial motion capture with optical motion capture systems
-- More information about the project can be found here: https://github.com/thePoland001/SensorDataAnalysis
+Numerical Solution of Oblique Shocks  
+- Developed a python code that utilizes the bisection and secants methods to determine the Mach number and thermodynamic variables upstream and downstream of oblique shock waves
+
+Numerical Solution of Expansion Waves 
+- Developed a python simulation to determine the Mach number and thermodynamic conditions of a Prandtl–Meyer expansion through an expansion angle
+  
+Computational Fluid Dynamics (CFD) Solution of Quasi-1D Nozzle  
+- Developed a CFD code to solve for the subsonic-supersonic isentropic flow through an arbitrary convergent-divergent nozzle using MacCormack’s Predictor Corrector Technique
+
+
+
+
+
 
