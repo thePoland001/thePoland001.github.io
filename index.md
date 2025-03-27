@@ -1,8 +1,8 @@
 # About 
 
-Hi, I'm Josh – a BSISE engineering candidate at UAH, MSCS candidate at CU Boulder (pursuing concurrently with my bachelors), and an incoming SWE Intern at Parry Labs. My passion for learning has led me to explore many different fields such as data science, machine learning, robotics, MBSE, aeronautical & astronautical engineering, and even the non technical domains of finance & real estate investing. Outisde of working and studying, I like to read, write, draw, and play chess. 
+Hi, I'm Josh – a BSISE engineering candidate at UAH, MSCS candidate at CU Boulder (pursuing concurrently with my bachelors), and an incoming SWE Intern at Siemens. My passion for learning has led me to explore many different fields such as data science, machine learning, robotics, MBSE, aeronautical & astronautical engineering, and even the non technical domains of finance & real estate investing. Outisde of working and studying, I like to read, write, draw, and play chess. 
 
-I'm graduating from UAH & CU Boulder in 2026 (in May and December respectively), and I plan to work as a software engineer in the defense tech industry - ideally with a focus on data science or GNC. Below are some projects that I completed recently. 
+I'm graduating from UAH & CU Boulder in 2026 (in May and December respectively), and I plan to work as a software engineer in tech - ideally with a focus on data science. Below are some projects that I completed recently. 
 
 # Projects 
 Conflict-driven Clause Learning SAT Solver
